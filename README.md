@@ -3,7 +3,6 @@
 
 This Full Stack SaaS application allows users to visually build, manage, and schedule web scrapers using a workflow builder powered by AI. Users can create, modify, and delete workflows with an intuitive drag-and-drop interface. The integration of AI simplifies the web scraping process, making it accessible to both technical and non-technical users.
 
----
 
 ## Features
 
